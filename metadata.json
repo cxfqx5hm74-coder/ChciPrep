@@ -1,0 +1,6 @@
+{
+  "name": "Chci PrEP",
+  "description": "Mobilní průvodce a asistent pro PrEP prevenci v ČR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
